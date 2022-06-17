@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackAsTool>true</PackAsTool>
+    <RollForward>Major</RollForward>
     <ToolCommandName>localtunnel</ToolCommandName>
     <Description>Localtunnel implementation in .NET</Description>
     <Company>Angelo Breuer</Company>
